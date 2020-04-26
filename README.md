@@ -4,3 +4,6 @@ Downloaded python3.6.9 as well as virtual envwrapper and Django. Wondering if I 
 TheOdinProject HTML/CSS project can be found: (http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
 
 ---2 April 2020
+
+Finished and uploaded to GitHub. Lots of days not spent working on this. Hardest part where I got stuck was actually centering the content. Seems I need lots of more learning on that alone. I want to come back to this after a few more projects and make it look a lot better using the Apps Icon, magnifying glass and google search button/lucky search button. 
+---26 April 2020
