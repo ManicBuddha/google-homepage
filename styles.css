@@ -1,0 +1,98 @@
+body{
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+    margin: 0; 
+    white-space: nowrap;
+}
+a{
+    margin-left: 1em;
+    margin-right: 1em;
+    font-size: 15px;
+    text-decoration: none;
+    color: rgba(0,0,0,.54);
+}
+a:hover{
+    text-decoration: underline;
+}
+#header{
+    display: inline-block;
+    width: 100%;
+    min-height: 60px;
+}
+#about-store{
+    float: left;
+    padding: 20px;
+}
+#gmail-images-signin{
+    float: right;
+    padding: 20px;
+}
+.logo{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    margin-top: 89px;
+    margin-bottom: 28px; 
+    width: 30%;
+    height: 10%;
+   }
+
+#search{
+    margin: auto;
+}
+#search_bar{
+    border: 1px solid #ccc;
+    background-color: #fff;
+    border-radius: 24px;
+    width: 40%;
+    height: 3.2em;
+    margin: auto;
+}
+#input_box{
+    border: 1px solid #ccc;
+    background-color: #fff;
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 1%;
+    border: 5px solid transparent
+
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    margin-top: 18px;
+    white-space: normal;
+
+}
+.google_search, .lucky_search{
+    line-height: 27px;
+    height: 36px;
+    margin: 0px 4px;
+    border: 0;
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    padding: 0 16px;
+    font-size: 14px;
+}
+#footer{
+    position: fixed;
+    margin-bottom: 0px;
+    bottom: 0px;
+    display: inline-block;
+    width: 100%;
+    background: #f2f2f2;
+    line-height: 40px;
+}
+#advertising-business-howsearchworks{
+    float: left;
+    padding: 20px;
+}
+#privacy-terms-settings{
+    float: right;
+    padding: 20px;
+}
+
